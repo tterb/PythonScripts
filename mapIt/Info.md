@@ -1,6 +1,6 @@
 #MapIt  
-  
 <br>
+********************************************************************************************************* 
 ##Description:  
   
   This program opens a new Google Maps window in the user's default browser with directions from the  
